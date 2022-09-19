@@ -1,0 +1,8 @@
+<svg id="수정아이콘" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">  
+  <circle id="타원_87" data-name="타원 87" cx="10" cy="10" r="10" fill="#2c57e5"/>
+  <g id="그룹_334" data-name="그룹 334" transform="translate(6.592 5.899)">
+    <g id="그룹_332" data-name="그룹 332" transform="translate(-1.337 -0.899)">
+      <path id="패스_164" data-name="패스 164" d="M4.241,1.551-.233,6.013A.239.239,0,0,0-.3,6.135L-.691,8.1a.239.239,0,0,0,.28.282l1.965-.393a.239.239,0,0,0,.122-.065L6.15,3.462ZM7.577.977l-.9-.9a.717.717,0,0,0-1.014,0L4.823.925l1.9,1.91.844-.844A.7.7,0,0,0,7.577.977" transform="translate(1.306 0.85)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    background: '#ffffff';
+}
+
+body * {
+    font-family: 'Noto Sans KR', 'Apple SD Gothic Neo', Sans-serif !important;
+}
+
+.checkout-animation {
+    transition: unset !important;
+    border-color: #2C57E5 !important;
+    animation: checkoutAnimation 1s cubic-bezier(1, 0, 0, 1) infinite 500ms;
+}
+
+.pointer-animation {
+    animation: pointerAnimation 1.5s infinite;
+}
+
+@keyframes pointerAnimation {
+    from {
+        opacity: 0.5;
+        transform: scale(0.85);
+    }
+    50% {
+        opacity: 1;
+        transform: scale(1.05);
+    }
+    to {
+        opacity: 0.5;
+        transform: scale(0.85);
+    }
+}
+
+@keyframes checkoutAnimation {
+    from {
+        background: #fff;
+        color: #696969;
+    }
+    50% {
+        background: #2C57E5;        
+        color: #fff;
+    }
+    from {
+        background: #fff;
+        color: #696969;
+    }
+}

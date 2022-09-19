@@ -1,0 +1,8 @@
+<svg id="시계아이콘" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <g id="그룹_255" data-name="그룹 255" transform="translate(1.473 2.016)">
+    <g id="그룹_254" data-name="그룹 254" transform="translate(-0.103 -1.016)" >
+      <path id="패스_135" data-name="패스 135" d="M6.428,11.569A5.142,5.142,0,1,1,11.57,6.427a5.143,5.143,0,0,1-5.142,5.142M6.428,0a6.428,6.428,0,1,0,6.427,6.427A6.427,6.427,0,0,0,6.428,0M8.42,6.836,7.071,6.055V3.214a.643.643,0,1,0-1.285,0V6.427a.64.64,0,0,0,.321.555l1.67.964A.643.643,0,1,0,8.42,6.833Z" transform="translate(0.092 0.572)" fill="#2c57e5" stroke="#2c57e5" stroke-width="0.2"/>
+    </g>
+  </g>
+  <rect id="사각형_205" data-name="사각형 205" width="16" height="16" fill="none"/>
+</svg>

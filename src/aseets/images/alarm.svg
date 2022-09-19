@@ -1,0 +1,10 @@
+<svg id="요청내역없음아이콘" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="36" viewBox="0 0 36 36">
+  <g id="그룹_305" data-name="그룹 305" transform="translate(-5 -4)">
+    <g id="그룹_304" data-name="그룹 304" transform="translate(5 5)">
+      <path id="패스_145" data-name="패스 145" d="M30.6,15.677A14.927,14.927,0,1,1,15.677.75,14.93,14.93,0,0,1,30.6,15.677" transform="translate(2.25 1.592)" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_146" data-name="패스 146" d="M8.273,4.523v9.158" transform="translate(9.75 5.377)" fill="none" stroke="#ccc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <circle id="타원_79" data-name="타원 79" cx="1.746" cy="1.746" r="1.746" transform="translate(16.5 22.381)" fill="#ccc"/>
+    </g>
+  </g>
+  <rect id="사각형_214" data-name="사각형 214" width="36" height="36" fill="none"/>
+</svg>
