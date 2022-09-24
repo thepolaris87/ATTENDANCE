@@ -8,7 +8,7 @@ type USEGOOGLELOGIN = {
 };
 
 export default function useGoogleLogin({ initialize, buttonId, buttonOption = {} }: USEGOOGLELOGIN) {
-    const id = 'jei-use-google-login';
+    const id = 'use-google-login';
 
     useEffect(() => {
         if (document.getElementById(id)) return;    
