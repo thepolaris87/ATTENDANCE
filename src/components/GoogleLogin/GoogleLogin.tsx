@@ -19,7 +19,7 @@ export default function GoogleLogin({
     state_cookie_domain,
     ux_mode
 }: GOOGLELOGIN) {
-    const buttonId = 'use-google-login';
+    const buttonId = 'google-login-btn';
     const initialize = {
         client_id,
         allowed_parent_origin,
