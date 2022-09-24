@@ -19,7 +19,7 @@ export default function GoogleLogin({
     state_cookie_domain,
     ux_mode
 }: GOOGLELOGIN) {
-    const buttonId = 'jei-google-login-btn';
+    const buttonId = 'use-google-login';
     const initialize = {
         client_id,
         allowed_parent_origin,
